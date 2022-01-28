@@ -1,2 +1,2 @@
-# linked_implementation
-Implementation of linked list using c language
+# DS implementation
+Implementation of Data Structure
